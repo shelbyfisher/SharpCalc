@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SharpCalc
 {
-   public class DataConverter
+    public class DataConverter
     {
         public double ConvertToNumeric(string argTextInput)
         {
